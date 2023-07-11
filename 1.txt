@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-12315mastermaster
-=======
 12315mdmdmd
->>>>>>> md
